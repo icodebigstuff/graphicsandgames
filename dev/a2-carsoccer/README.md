@@ -1,9 +1,7 @@
-Name: Samira Osman
-x500: osman293
+to run: first create a build directory, then run cmake .. within it, then do start a2-carsoccer.sln
 
-I tried to include the build directory in my submission, but it wouldn't push out without doing it for individual files. So in order to run it, a build directory will need to be created and then cmake .. called within it, and then "start a2-carsoccer.sln" can be run from the command line.
 
-Design Decisions:
+# Design Decisions:
 
 • Drawing the boundary and goals
 
