@@ -1,6 +1,4 @@
-CSci-4611 Assignment 4: So You Think Ants Can Dance
-Name: Samira Osman
-X500: osman293
+So You Think Ants Can Dance
 
 ## C Range Work
 
