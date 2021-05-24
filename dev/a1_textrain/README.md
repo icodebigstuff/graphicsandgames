@@ -1,6 +1,3 @@
-Samira Osman
-
-x500: osman293
 
 I chose a class to hold each letter so I could instantiate functions relating to it
 in order to control features such as fall, threshold checking, and rising.
