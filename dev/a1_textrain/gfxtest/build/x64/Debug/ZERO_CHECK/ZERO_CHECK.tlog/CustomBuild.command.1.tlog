@@ -1,0 +1,10 @@
+^Y:\CSCI4611\REPO-OSMAN293\DEV\A1_TEXTRAIN\GFXTEST\BUILD\CMAKEFILES\BD3E7B6D4E95237AC8B27FC4703153C2\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SY:/csci4611/repo-osman293/dev/a1_textrain/gfxtest -BY:/csci4611/repo-osman293/dev/a1_textrain/gfxtest/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file Y:/csci4611/repo-osman293/dev/a1_textrain/gfxtest/build/gfxtest.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

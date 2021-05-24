@@ -1,0 +1,4 @@
+Y:/csci4611/repo-osman293/dev/a1_textrain/gfxtest/build/CMakeFiles/gfxtest.dir
+Y:/csci4611/repo-osman293/dev/a1_textrain/gfxtest/build/CMakeFiles/INSTALL.dir
+Y:/csci4611/repo-osman293/dev/a1_textrain/gfxtest/build/CMakeFiles/ALL_BUILD.dir
+Y:/csci4611/repo-osman293/dev/a1_textrain/gfxtest/build/CMakeFiles/ZERO_CHECK.dir

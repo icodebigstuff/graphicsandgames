@@ -1,0 +1,6 @@
+﻿  Building Custom Rule Y:/csci4611/repo-osman293/dev/a1_textrain/gfxtest/CMakeLists.txt
+  gfx_test.cc
+C:\MinGfx-1.0\include\MinGfx-1.0\opengl_headers.h(20,10): fatal error C1083: Cannot open include file: 'nanogui/opengl.h': No such file or directory
+  main.cc
+C:\MinGfx-1.0\include\MinGfx-1.0\opengl_headers.h(20,10): fatal error C1083: Cannot open include file: 'nanogui/opengl.h': No such file or directory
+  Generating Code...
